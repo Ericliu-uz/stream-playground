@@ -22,7 +22,7 @@ public class Main {
         //exercise2_8(countries);
         //System.out.println(exercise2_9(countries));
         //exercise2_10(countries);
-        exercise2_11(countries);
+        //exercise2_11(countries);
         //System.out.println(exercise2_12(countries));
         //exercise2_13(countries);
         //System.out.println(exercise2_14(countries));
